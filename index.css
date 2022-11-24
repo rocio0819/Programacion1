@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+form {
+    margin-top: 1rem;/*indico el ancho  margen superior*/
+    margin-bottom: 1rem;/*indico el ancho  margen inferior*/
+}
+
+.container {
+    max-width: 1180px; /*ancho maximo de un elemento*/
+    margin-top: 20px; /*indico el ancho  margen superior*/
+    margin-left: auto;/*margen izq*/
+    margin-right: auto;/*margen derecho*/
+    padding-left: 20px;/*relleno del elemento izq*/
+    padding-right: 20px;/*relleno del elemento derecho*/
+    width: 300%;/*anchura del area*/
+}
